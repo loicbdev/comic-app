@@ -29,8 +29,9 @@
 
 à faire :
 
-- authentification (s'enregistrer / se connecter + compte "admin)
-- pagination de la liste des spectacles
+- Authentification (s'enregistrer / se connecter + compte "admin)
+- Pagination de la liste des spectacles
+- autres ...
 
 ## Outils et ressources
 
