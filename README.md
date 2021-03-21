@@ -29,7 +29,7 @@
 
 à faire :
 
-- Authentification (s'enregistrer / se connecter + compte "admin)
+- Authentification (s'enregistrer / se connecter + compte "admin")
 - Pagination de la liste des spectacles
 - autres ...
 
