@@ -41,7 +41,7 @@
 - axios
 - react-router
 - react-player
-- Boostrap
+- Bootstrap
 - Styled-components
 
 ### Back
